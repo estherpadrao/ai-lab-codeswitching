@@ -138,9 +138,3 @@ jupyter notebook
 ```
 
 4. Run cells sequentially to parse, label, and analyze the chat
-
----
-
-## Why this is cool
-
-This project shows that meaningful structure can be extracted from messy, real-world multilingual text without training a model. By labeling words and visualizing usage, it reveals how languages mix in practice—who switches, when they switch, and what kinds of words are borrowed—making code-switching a measurable and interpretable phenomenon.
